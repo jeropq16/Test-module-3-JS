@@ -1,0 +1,29 @@
+{
+  "name": "reto-final-pro",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "npm": "^11.4.2",
+    "vite": "^7.0.4"
+  },
+  "dependencies": {
+    "esbuild": "^0.25.6",
+    "fdir": "^6.4.6",
+    "nanoid": "^3.3.11",
+    "picocolors": "^1.1.1",
+    "picomatch": "^4.0.2",
+    "postcss": "^8.5.6",
+    "rollup": "^4.45.0",
+    "source-map-js": "^1.2.1",
+    "tinyglobby": "^0.2.14"
+  },
+  "type": "commonjs"
+}

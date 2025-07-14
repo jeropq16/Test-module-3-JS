@@ -1,0 +1,39 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Jeronimo",
+      "correo": "jero@g",
+      "contraseña": "123",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "nombre": "PAblo",
+      "correo": "pablo@g",
+      "contraseña": "1234",
+      "role": "usuario"
+    },
+    {
+      "nombre": "awo",
+      "correo": "awo@g",
+      "contraseña": "123",
+      "role": "admin",
+      "id": 3
+    }
+  ],
+  "eventos": [
+    {
+      "id": 1,
+      "nombre": "Circo Julio",
+      "fecha": "2025-07-20",
+      "descripcion": "maravilloso circo."
+    },
+    {
+      "nombre": "buñuelos",
+      "capacidad": 6,
+      "fecha": "2025-07-15",
+      "id": 2
+    }
+  ]
+}
