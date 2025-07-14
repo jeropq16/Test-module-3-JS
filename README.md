@@ -65,3 +65,6 @@ json-server --watch db.json --port 3000
 - All logic is handled in `main.js` using vanilla JavaScript and the Fetch API.
 - The CSS file (`style.css`) provides a modern and responsive design for the app.
 - No frameworks are required; everything runs
+
+
+Hecho por Jeronimo Parra Quintero Clan lovelace C:C 1023630956 jeronimopq1611@gmail.com
